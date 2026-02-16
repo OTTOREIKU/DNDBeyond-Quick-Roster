@@ -8,6 +8,7 @@ VERSIONS:
 
 25 - base tool  
 26 - tool + 5eTools button  
+(*5etools is a mirror I am hosting for comptatability*)
 
 Required extensions:  
 
