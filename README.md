@@ -6,7 +6,7 @@
 
 VERSIONS:  
 
-25 - base tool  
+25 - base   
 26 - base + 5eTools button  
 (*5etools is a [mirror](https://github.com/OTTOREIKU/5etools-Trevelyan) I am hosting for compatibility*)
 
@@ -46,7 +46,7 @@ The next time you load up/enter a campaign inside of roll20 a new D&D Beyond but
 How to use:  
 - Make sure your character sheet is set to public  
 
-- Copy the link to your sheet, click the D&D Beyond button, paste into the box and hit add character (rename the default character ID if you want)
+- Copy the link to your sheet, click the D&D Beyond button, paste the URL into the box and hit add character (rename the default character ID if you want)
 
 - click the new name that appears above the button and it will open the sheet(s)
   
