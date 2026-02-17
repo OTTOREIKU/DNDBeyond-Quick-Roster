@@ -7,7 +7,7 @@
 VERSIONS:  
 
 25 - base tool  
-26 - tool + 5eTools button  
+26 - base + 5eTools button  
 (*5etools is a [mirror](https://github.com/OTTOREIKU/5etools-Trevelyan) I am hosting for compatibility*)
 
 Required extensions:  
@@ -41,3 +41,15 @@ b) Inside of Tampermonkey's Dashboard make sure Allow Userscripts is enabled in 
 
 The next time you load up/enter a campaign inside of roll20 a new D&D Beyond button should be visible on the screen
   
+--  
+
+How to use:  
+- Make sure your character sheet is set to public  
+
+- Copy the link to your sheet, click the D&D Beyond button, paste into the box and hit add character (rename the default character ID if you want)
+
+- click the new name that appears above the button and it will open the sheet(s)
+  
+- If you wish to share a preset group of characters hit the share/copy button and then to input that string you hit the import button and then paste it into the new popup
+  
+- Autorefresh is off so the first time you load a character sheet it will load the page but afterwards it will be instant flipping between multiple. If changes are made to a sheet, you need to turn Autorefresh ON and then switching back to the sheet will load it again
