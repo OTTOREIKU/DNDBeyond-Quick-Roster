@@ -55,4 +55,4 @@ How to use:
   
 - Autorefresh is off so the first time you load a character sheet it will load the page but afterwards it will be instant flipping between multiple. If changes are made to a sheet, you need to turn Autorefresh ON and then switching back to the sheet will load it again
 
-- The Pin button pins the red button in place on screen, the lock button locks the setting from being opened when you're moving it around (or you can use middle mouse to move it)
+- The PIN button pins the red button in place on screen, the LOCK button locks the setting from being opened when you're moving it around (or you can use middle mouse to move it)
