@@ -28,7 +28,8 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/ignore-x-frame-options-h
 --  
 
 Installation steps:  
-
+*(Chrome users will need to enable Developer mode inside of the browser settings)*  
+  
 1 - Install Beyond20. This allows you to take rolls from D&DBeyond and post them in the roll20 chat
   
 2 - Install X Frame Options. Make sure the correct permissions are given and that the tool is enabled
