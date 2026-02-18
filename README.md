@@ -10,6 +10,7 @@ VERSIONS:
 25 - base   
 26 - base + 5eTools button  
 29 - base + 5eTools + NotebookLM + Notepad  
+30 - v29 + Initiative Tracker  
 (*5etools is a [mirror](https://github.com/OTTOREIKU/5etools-Trevelyan) I am hosting for compatibility*)
 
 Required extensions:  
