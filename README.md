@@ -41,7 +41,7 @@ Installation steps:
 a) Inside of your browser extension settings make sure it has all of the required permissions  
 b) Inside of Tampermonkey's Dashboard make sure Allow Userscripts is enabled in the settings  
   
-4 - [Download](https://github.com/OTTOREIKU/DNDBeyond-Quick-Roster/releases/tag/V1) the version of the script you want and add it to Tampermonkey. Make sure that it is enabled inside of the Installed Usercsripts section  
+4 - [Download](https://github.com/OTTOREIKU/DNDBeyond-Quick-Roster/releases) the version of the script you want and add it to Tampermonkey. Make sure that it is enabled inside of the Installed Usercsripts section  
 
 The next time you load up/enter a campaign inside of roll20 a new D&D Beyond button should be visible on the screen
   
