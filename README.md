@@ -1,5 +1,5 @@
 # D&amp;D Beyond Quick Roster
-*Creates a floating button inside roll20 to add D&amp;D Beyond character sheets *+extras* inside of a roll20 campaign*
+*Creates a floating button to add D&amp;D Beyond character sheets *+extras* inside of a roll20 campaign*
 --  
 <img width="1491" height="860" alt="DDQR-1" src="https://github.com/user-attachments/assets/b4bdf320-1b4e-47fd-8d77-ad1af051bee9" />  
 --  
