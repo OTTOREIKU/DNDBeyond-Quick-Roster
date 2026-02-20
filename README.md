@@ -42,7 +42,7 @@ Installation steps:
   
 3 - Install Tampermonkey.  
 a) Inside of your browser extension settings make sure it has all of the required permissions  
-b) Inside of Tampermonkey's Dashboard make sure Allow Userscripts is enabled in the settings *(this may have to be enabled after you install the 31.0 script)*
+b) Inside of Tampermonkey's Dashboard make sure Allow Userscripts is enabled in the settings *(this may have to be enabled after you install the script)*
   
 4 - [Download](https://github.com/OTTOREIKU/DNDBeyond-Quick-Roster/releases) the most recent script and add it to Tampermonkey. Make sure that it is enabled inside of the Installed Usercsripts section  
 
@@ -50,14 +50,18 @@ The next time you load up/enter a campaign inside of roll20 a new D&D Beyond but
   
 --  
 
-How to use:  
-- Make sure your character sheet is set to public  
+How to use:    
 
-- Copy the link to your sheet, click the D&D Beyond button, paste the URL into the box and hit add character (rename the default character ID if you want)
+**There are settings toggles for every extra function of the tool so you can turn off/on anything you wish to use or not use**  
+**most are off by default**  
+  
+- Make sure your D&D Beyond character sheet is set to public  
+
+- Copy the URL to your sheet, click the D&D Beyond button inside roll20, paste the URL into the box and hit add character (rename the default character ID if you want)
 
 - click the new name that appears above the button and it will open the sheet(s)
   
-- If you wish to share a preset group of characters hit the share/copy button and then to input that string you hit the import button and then paste it into the new popup
+- If you wish to share a preset group of characters hit the share/copy button and then to input that string, you hit the import button and then paste it into the new popup
   
 - Autorefresh is off so the first time you load a character sheet it will load the page but afterwards it will be instant flipping between multiple. If changes are made to a sheet, you need to turn Autorefresh ON and then switching back to the sheet will load it again
 
@@ -70,4 +74,3 @@ How to use:
 <img width="42" height="37" alt="RSH1" src="https://github.com/user-attachments/assets/b42cff01-6e18-4418-9457-0d531e6a7141" />
 <img width="321" height="52" alt="RS2" src="https://github.com/user-attachments/assets/2dfb9461-e65f-428c-829b-d83e62c134dd" />
 <img width="593" height="82" alt="RS3" src="https://github.com/user-attachments/assets/16da933c-a743-4b43-a242-cb22219905ec" />
-
