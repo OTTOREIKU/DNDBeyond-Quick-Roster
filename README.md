@@ -3,7 +3,7 @@
 --  
 <img width="1491" height="860" alt="DDQR-1" src="https://github.com/user-attachments/assets/b4bdf320-1b4e-47fd-8d77-ad1af051bee9" />  
 --  
-<img width="1554" height="862" alt="DDQR-2" src="https://github.com/user-attachments/assets/d6cd1b6d-babf-4d11-8491-527e2c9ea113" />  
+xxx
 --  
   
 
