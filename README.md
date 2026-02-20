@@ -71,6 +71,9 @@ How to use:
 
 - To add a roll20 sheet you must have permissions to edit/view the sheet. Then you open the sheet and click the popout button in the top right. The new character sheet window that opens should now have some floating buttons to cache the page. You need to click each tab of the character sheet (Comabt, Spells, Inventory, etc) and hit the '+capture view' button at the top to record the info found on each. Then click 'save & close' to save the sheet to the master window
 
-<img width="42" height="37" alt="RSH1" src="https://github.com/user-attachments/assets/b42cff01-6e18-4418-9457-0d531e6a7141" />
-<img width="321" height="52" alt="RS2" src="https://github.com/user-attachments/assets/2dfb9461-e65f-428c-829b-d83e62c134dd" />
-<img width="593" height="82" alt="RS3" src="https://github.com/user-attachments/assets/16da933c-a743-4b43-a242-cb22219905ec" />
+<img width="42" height="37" alt="RSH1" src="https://github.com/user-attachments/assets/b42cff01-6e18-4418-9457-0d531e6a7141" />  
+  
+<img width="321" height="52" alt="RS2" src="https://github.com/user-attachments/assets/2dfb9461-e65f-428c-829b-d83e62c134dd" />  
+  
+<img width="593" height="82" alt="RS3" src="https://github.com/user-attachments/assets/16da933c-a743-4b43-a242-cb22219905ec" />  
+
